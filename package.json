@@ -1,0 +1,14 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "This bot plays tic tac toe!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saffaura",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
